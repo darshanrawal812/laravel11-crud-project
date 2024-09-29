@@ -4,3 +4,4 @@
 .env
 .DS_Store
 /public/uploads   
+/learnings.txt
